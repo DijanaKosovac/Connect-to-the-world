@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 15" width="19" height="15">
+	<defs>
+		<image width="19" height="15" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAPCAMAAAAxmgQeAAAAAXNSR0IB2cksfwAAAQJQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+0q5tQAAAFZ0Uk5TAxMAKpboniwaUDwouD0k1v/w26VCPuFSDZf7r2kp6zsYt20ImPz1tHhaz8qF7sEv7KSb93MXkunmI2z9AUXtHQQ2n+BKAgdU5zR2ldj4wCB60/b0xXABPVgKAAAAs0lEQVR4nFXO1xbBUBBA0TGCqLnRexCd6ESJ3nsJ//8rJDdr4TzupwNgQiMzY7FYbazdAU6Xm5KHI594r88PARIMhTWLEL1oLA6JJIlGhBRimhqfYUHM5gjJF4qlMrWKiOCpSuS3Whih3sj/WRMRxNYftTsfw25P/rH+QDMctr80YlAzZTz5mneqG87mi6VB/Eq7B2WtbLYcpV1J0W1/OJ6onC+CTgjX2116qKoqP19dSvgGHZ0Z28fX5i4AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="icon-twitter" href="#img1" x="0" y="0" />
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 16" width="8" height="16">
+	<defs>
+		<image width="8" height="16" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAQCAMAAAAcVM5PAAAAAXNSR0IB2cksfwAAAE5QTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////kDxURQAAABp0Uk5TAFrI8OH/+AXN8wvyIwoPHvEYDP7QvokG9A4k4iO3AAAAU0lEQVR4nIWMSxKAIABCKcTSSvun979o6kzr2PCGAQCg60lTXUUWGEbJ1cRPcrNfEOIqbn6H4aGDPGHVdH3J3TprDE9ZUfTlDqFA+IOk1CAbmgy89qEDjAm3tC4AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="icon-facebook" href="#img1" x="0" y="0" />
+</svg>

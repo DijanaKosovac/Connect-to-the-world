@@ -5,7 +5,7 @@
 
     .headline__caption {
         font-size: 40px;
-        margin: 50px 0;
+        margin: 100px 0;
         color: $primary-blue;
         text-transform: uppercase;
         text-align: center;
@@ -41,4 +41,71 @@
 .headline__promo-paragraph {
     font-size: 13px;
     color: $main-paragraph-color;
+}
+
+@include mobile {
+    .headline {
+        .headline__caption {
+            font-size: 25px;
+            margin-top: 150px;
+        }
+    }
+
+    .headline__container {
+        @include flex(center, center, nowrap);
+        flex-direction: column;
+    }
+
+    .headline__info {
+        width: 90%;
+    }
+
+    .headline__image {
+        width: 90%;
+    }
+}
+
+
+@include mobile-up {
+    .headline {
+        .headline__caption {
+            font-size: 25px;
+            margin-top: 150px;
+        }
+    }
+
+    .headline__container {
+        @include flex(center, center, nowrap);
+        flex-direction: column;
+    }
+
+    .headline__info {
+        width: 90%;
+    }
+
+    .headline__image {
+        width: 90%;
+    }
+}
+
+@include tablet {
+    .headline {
+        .headline__caption {
+            font-size: 25px;
+            margin-top: 150px;
+        }
+    }
+
+    .headline__container {
+        @include flex(center, center, nowrap);
+        flex-direction: column;
+    }
+
+    .headline__info {
+        width: 90%;
+    }
+
+    .headline__image {
+        width: 90%;
+    }
 }

@@ -1,0 +1,26 @@
+.social-info {
+    @include flex(center, center, nowrap);
+    flex-direction: column;
+    background-color: $primary-blue;
+    padding: 40px 0;
+}
+
+.social-info__network {
+    @include flex(space-around, center, nowrap);
+    width: 25%;
+    padding: 30px 0;
+
+    .social-info__wrapper {
+        @include flex(center, center, nowrap);
+        width: 33px;
+        height: 33px;
+        border-radius: 16px;
+        background: $ternary-blue;
+    }
+}
+
+@include mobile {
+    .social-info__network {
+        width: 40%;
+    }
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 17" width="17" height="17">
+	<defs>
+		<image width="17" height="17" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAMAAAAMs7fIAAAAAXNSR0IB2cksfwAAAR1QTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////WLXmJAAAAF90Uk5TAFq67v/nrUcDnNidmZie43WKCQYaqDa/2wcLD+CvHPWTCG7R5cVWvKACzbTakMjebXJGydKmDOqr1cTH2Rj5mpURH7j9Nd/t1mvcp0ml07IshkWqIi/2JnP3VZLKwILh9xkYAAAA10lEQVR4nEWN51rCUBBERzPRKImAqAEFQQSEoKKCFYhSYqMo3f7+j+HNDeX82j073yyApWWFHurKKgBtjes+XWJs+BkQCQY3MSW0tc0dmOGI3HaBvWhsP56A4hPrQfIwlc5EjrI5Kw0aIp2nFTvmibidFkAdOOO5yBm8AIrS5EqWbFIuZ+bq+kaW397NDMoVTYiqfT83GT7UtHqj6QjzKH8hwadnmy/ur1eoLbei3TF1xx26Jt7UGha8N3voczCci1F5PAE+aFtFjxI/v9yD8/1T8Pj9E4l/DpEbLv/hH2YAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="icon-instagram copy" href="#img1" x="0" y="0" />
+</svg>
