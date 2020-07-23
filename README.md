@@ -1,6 +1,6 @@
-# Green Earth
+# CONNECT TO THE WORLD
 
-This project is made using **HTML5, SCSS and JS**.
+This project is made using **HTML5, CSS3**.
 Below you will find some information on how to perform common tasks.
 
 

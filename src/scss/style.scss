@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
 // UTILITIES
 @import '1-utilities/mixins';
 @import '1-utilities/variables';
 
 // COMPONENTS
-
+@import '2-components/header';
+@import '2-components/main-headline';
 
 @include main();

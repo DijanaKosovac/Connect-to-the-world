@@ -1,0 +1,44 @@
+.headline {
+    width: 100%;
+    padding: 30px;
+    margin: 0 auto;
+
+    .headline__caption {
+        font-size: 40px;
+        margin: 50px 0;
+        color: $primary-blue;
+        text-transform: uppercase;
+        text-align: center;
+    }
+}
+
+.headline__container {
+    @include flex(center, flex-start, nowrap);
+}
+
+.headline__info {
+    width: 50%;
+}
+
+.headline__image {
+    width: 50%;
+
+    img {
+        width: 100%;
+    }
+}
+
+.headline__promo {
+    margin-bottom: 50px;
+}
+
+.headline__promo-caption {
+    font-size: 18px;
+    margin-bottom: 20px;
+    color: $primary-blue;
+}
+
+.headline__promo-paragraph {
+    font-size: 13px;
+    color: $main-paragraph-color;
+}

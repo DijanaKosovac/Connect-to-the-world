@@ -1,0 +1,51 @@
+.header {
+    @include flex(space-between, center, wrap);
+    width: 100%;
+    background-color: $primary-blue;
+    padding: 30px 25px;
+    color: $main-font-color;
+    // overflow: hidden;
+    // position: fixed;
+    // top: 0;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    width: 100%;
+}
+
+.header__headline {
+    font-size: 16px;
+    margin-left: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.header__logo {
+    @include flex(center, center, nowrap);
+}
+
+.header__search {
+    @include flex(center, center, nowrap);
+
+    .header__search-headline {
+        margin-left: 10px;
+        font-weight: 600;
+        text-decoration: none;
+        color: $main-font-color;
+    }
+}
+
+.header__nav {
+    width: 30%;
+}
+
+.header__list {
+    @include flex(space-between, center, nowrap);
+    list-style: none;
+
+    .header__link {
+        text-decoration: none;
+        color: $main-font-color;
+        font-size: 14px;
+    }
+}
