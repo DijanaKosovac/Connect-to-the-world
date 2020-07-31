@@ -13,7 +13,7 @@
 }
 
 .tours__container {
-    @include flex(space-between, center, wrap);
+    @include flex(space-around, center, wrap);
     margin-top: 40px;
 }
 
@@ -67,7 +67,6 @@
     color: $primary-white;
     text-transform: uppercase;
 }
-
 
 @include mobile {
     .tours__container {
